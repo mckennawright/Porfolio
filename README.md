@@ -1,1 +1,1 @@
-This is my Portfolio. It was crated in CS 160 at OSU Cascades. It was made to inform future imployers about my education and past work experiences. 
+My porfolio is created to network with future buisness employers and educators. It’s purpose is to give direct links to current projects, my resume, and multiple accounts that show my background and expiernences. The portfolio was created to illistrate my work and teach me how to web develop.
